@@ -7,4 +7,5 @@ The development is described in the following thesis:
 The extension is based on the [Writing Evaluator](https://elle.tlu.ee/corrector) tool of the ELLE language learning and analysis environment (ELLE repository can be found [here](https://github.com/centre-for-educational-technology/evkk)). Spelling correction uses the Jamspell algorithm. Proficiency evaluation (A2-C1) relies on morphological, lexical and surface (word and sentence length based) features. Various scores of complexity (LIX, SMOG, Flesch-Kincaid grade level) and lexical diversity (RTTR, CTTR, MTLD and HDD) are calculated. Text complexity is estimated on a three-level scale: 'Easy' - 'Medium' - 'Difficult' ('Kerge' - 'Keskmine' - 'Raske' in Estonian).
 
 An example of using the correction view of the extension (Rosenfeld, 2023):
+
 ![Screenshot of the Writing Evaluator Chrome extension.](http://www.tlu.ee/~kais/ELLE_materjalid/rosenfeld2023_diplomitoo_naide.png)
