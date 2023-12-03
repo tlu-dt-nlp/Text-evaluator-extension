@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name":"Tekstihindaja",
     "version": "1.1",
-    "description":"writing evaluation tool",
+    "description":"Writing evaluation tool for Estonian language",
     "action": {
         "default_popup": "popup.html" },
     "content_scripts":[
